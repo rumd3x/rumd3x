@@ -15,6 +15,7 @@
 import java.time.DayOfWeek
 import java.time.LocalDateTime
 import java.time.Year
+import world.assets.people.Programmer
 
 class Me : Programmer() {
     val name = "Edmur"
