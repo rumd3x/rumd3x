@@ -13,7 +13,6 @@
 
 ```kotlin
 import java.time.DayOfWeek
-import java.time.LocalDate
 import java.time.LocalDateTime
 import java.time.Year
 
@@ -26,9 +25,9 @@ class Me : Programmer() {
     fun work() {
         val today = LocalDateTime.now().dayOfWeek
         val beverage = if (today == DayOfWeek.FRIDAY) "beer" else "coffee"
-        me.drink(beverage)
-        code()
-        sleep()
+        this.drink(beverage)
+        this.code()
+        this.sleep()
     }
 }
 
