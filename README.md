@@ -5,10 +5,10 @@
 # <!-- . -->
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
-![GitHub User's stars](https://img.shields.io/github/stars/rumd3x) 
-![GitHub followers](https://img.shields.io/github/followers/rumd3x) 
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCPaGL56ZRIio5fRY5SFZVQw) 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCPaGL56ZRIio5fRY5SFZVQw)
+[![GitHub User's stars](https://img.shields.io/github/stars/rumd3x)](https://shields.io/)
+[![GitHub followers](https://img.shields.io/github/followers/rumd3x)](https://shields.io/)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCPaGL56ZRIio5fRY5SFZVQw)](https://www.youtube.com/rumd3x)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCPaGL56ZRIio5fRY5SFZVQw)](https://www.youtube.com/rumd3x)
 
 
 ```kotlin
